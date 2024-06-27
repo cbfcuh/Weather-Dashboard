@@ -16,4 +16,4 @@ Some of the challenges I personally face during this challenge was:
 <li>With the search input, when the user types in a city have the it also generate suggestions, for example: "Melbourne, Victoria". This way the data being displayed is more accurate, it would make a big difference to the user especially if there are multiple cities across the world that share the same name.</li>
 
 # Application
-By clicking <a href="">here</a> you can access the webpage.
+By clicking <a href="https://cbfcuh.github.io/Weather-Dashboard/">here</a> you can access the webpage.
